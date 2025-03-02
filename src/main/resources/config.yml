@@ -1,6 +1,6 @@
 broadcaster-interval: 40 # Seconds
-prefix: "[ Broadcaster ]"
+prefix: "§l§7[§bBetter§r§lBroadcaster§7] §r"
 messages:
-  - "Message 1"
-  - "Message 2"
-  - "Message 3"
+  - "Join our Discord Server at §ehttps://discord.example.com"
+  - "Vote for our server for insane rewards at §dhttps://vote.example.com"
+  - "You can earn more hearts by killing players!"
