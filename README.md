@@ -2,11 +2,11 @@
 
 [![Discord](https://img.shields.io/discord/979551565415346297.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/ApDXa7Tm)
 
-✨ **Broadcasting System plugin for Nukkit**
+✨ **Broadcasting System plugin for PowerNukkitX**
 
 ## Supported
 
-Nukkit API 1.0.13
+PowerNukkitX API 2.0.0
 
 ## Documentation
 
