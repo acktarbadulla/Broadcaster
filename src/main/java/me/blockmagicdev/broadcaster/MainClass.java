@@ -13,7 +13,7 @@ public class MainClass extends PluginBase {
         saveDefaultConfig();
         this.provider = new Provider(this);
         this.provider.initConfig();
-        this.getServer().getInstance().getScheduler().scheduleRepeatingTask(this, new BroadcastScheduler(this), 20 * this.getProvider().getMessageInterval());
+        this.getServer().getInstance().getScheduler().scheduleRepeatingTask(this, new BroadcastScheduler(this), 20 * this.getProvider().getMessageInterval(), true);
     }
 
     public Provider getProvider(){
